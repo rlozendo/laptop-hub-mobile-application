@@ -1,0 +1,47 @@
+{
+  "name": "laptophub",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@firebase/auth": "^1.4.0",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-native-fontawesome": "^0.3.0",
+    "@react-native-async-storage/async-storage": "^1.22.1",
+    "@react-native-firebase/app": "^17.4.2",
+    "@react-native-firebase/storage": "^17.4.2",
+    "@react-native-picker/picker": "^2.6.1",
+    "@react-navigation/native": "^6.1.10",
+    "@react-navigation/native-stack": "^6.9.18",
+    "expo": "~50.0.8",
+    "expo-camera": "^14.0.5",
+    "expo-image-picker": "^14.7.1",
+    "expo-mail-composer": "^12.7.1",
+    "expo-sms": "^11.7.1",
+    "expo-status-bar": "~1.11.1",
+    "firebase": "^10.6.0",
+    "he": "^1.2.0",
+    "react": "18.2.0",
+    "react-native": "0.73.4",
+    "react-native-gesture-handler": "^2.15.0",
+    "react-native-image-picker": "^7.1.0",
+    "react-native-pager-view": "^6.2.3",
+    "react-native-reanimated": "^3.7.1",
+    "react-native-render-html": "^6.3.4",
+    "react-native-svg": "^14.1.0",
+    "react-navigation": "^5.0.0",
+    "react-navigation-header-buttons": "^11.2.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
